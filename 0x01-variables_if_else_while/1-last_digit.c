@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
 /**
- *Main - Funtion
- *Return: 0
-*/
+ * main - This program will assign a random number to the variable n.
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
 	int n;

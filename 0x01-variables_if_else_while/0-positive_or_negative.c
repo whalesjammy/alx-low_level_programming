@@ -2,7 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- positive and negative value of numbers
+ *main - positive and negative value of numbers
+ *
+ *Return: always 0
  */
 int main(void)
 {
@@ -18,7 +20,7 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	else (n < 0)
+	else 
 	{
 		printf("%d is negative\n", n);
 	}	

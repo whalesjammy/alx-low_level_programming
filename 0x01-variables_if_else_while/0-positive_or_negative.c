@@ -4,7 +4,7 @@
 /**
  *main - positive and negative value of numbers
  *
- *Return: always 0
+ *Return: always 0 (Success)
  */
 int main(void)
 {
